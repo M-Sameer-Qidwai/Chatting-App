@@ -1,4 +1,8 @@
-# Chatting App Userstories
+# LinkUp User Stories
+
+**About This App;**
+_This App is all about chatting with your friends and family and staying in touch with them._
+
 ## Registration/Login Page
 
 **Application Registration:**
