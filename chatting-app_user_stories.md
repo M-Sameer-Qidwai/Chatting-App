@@ -1,1 +1,53 @@
 # Chatting App Userstories
+## Registration/Login Page
+
+**Application Registration:**
+_As a user, I want to register with my username, email and password to create my account and access the application._
+
+**Application Login:**
+_As a user, I want to login into the application by entering my Username and password._
+
+**Signup/Login Error:**
+_As a user, I want to recieve a Feedback message if i attempt to signup without entering email or password._
+_As a user, I want to recieve an error message, "Incorrect Passoword/Username" if I attempt to login without entering correct username/password._
+
+**Store User Data:**
+_As a user, I want my data to be saved in local storage so that the data will persists between different app sessions._
+
+## Home Page
+
+**Welcome Message (Optional):**
+_As a user, I want to recieve a welcome message upon logging in._
+
+**My Chats:**
+_As a user, I want to see my recent chats on the homepage._
+_As a user, I want my most recent chat to be displayed at the top and so on._
+
+**Add New Contact:**
+_As a user, I want to add new contacts by entering their First name, Last name and contact number._
+_As a user, I want a button on the homepage to add new contacts._
+
+**Search Contact:**
+_As a user, I want a search button on the homepage in order to search a specific contact's chat._
+
+## Chat Screen
+_As a user, I want to be able to do the following when I open one of my chats with a contact._
+
+- **User Chats:**
+_As a user, I want it to load  all the recent messages of all my contacts when I open their chats._
+
+- **Previous Message:**
+_As a user, I want to scroll up to see my recent chats till the very first message._
+
+- **New Message:**
+_As a user, I want to write a new message and send it to my contact._
+
+- **Delete a Message:**
+_As a user, I want my message to be deleted by holding the message and clicking "Delete Message"._
+
+- **Message Info:**
+_As a user, I want to be able to see the exact time of the message sent/recieved by the user._
+_As a user, I want a checkmark at the end of my message to make sure the message is sent successfully._
+
+
+
