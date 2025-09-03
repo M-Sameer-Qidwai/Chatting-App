@@ -50,8 +50,32 @@ _As a user, I want to write a new message and send it to my contact._
 _As a user, I want my message to be deleted by holding the message and clicking "Delete Message"._
 
 - **Message Info:**
-_As a user, I want to be able to see the exact time of the message sent/recieved by the user._
+_As a user, I want to be able to see the exact time of the message sent/recieved._
 _As a user, I want a checkmark at the end of my message to make sure the message is sent successfully._
+_As a user, I want double checkmark at the end of my message when the message is read by the person._
+
+## Persistant Data
+- **User Data:**
+_As a user, I want my data to persist across different sessions so that I don't need to enter details every time._
+
+- **User Preferences:**
+_As a user, I want the app to remember my preferences such as Dark Mode._
+
+- **User Activity:**
+_As an admin, I want user activity logs to persist so that i can track and analyze trends overtime._
+
+## Exteranal API
+
+- **Real-Time Communication:**
+_As a user, I want to send and recieve messages in realtime._
+
+- **Translation:**
+_As a user, I want to be able to translate messages from one language to another._
+
+
+
+
+
 
 
 
